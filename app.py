@@ -9,7 +9,7 @@ from agno.tools.reasoning import ReasoningTools
 
 # Page configuration
 st.set_page_config(
-    page_title="🔬 Research Agent",
+    page_title="Research Agent",
     page_icon="🔬",
     layout="centered",
     initial_sidebar_state="expanded",
